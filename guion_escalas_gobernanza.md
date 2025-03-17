@@ -1,4 +1,4 @@
-# Guión de la sesión denominada "Jerarquías de escala en la gestión de ecosistemas"
+# Escalas de gobernanza en la gestión de ecosistemas
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
 > + **_Versión_**: 2024-2025
@@ -28,9 +28,7 @@ Así pues, los objetivos de aprendizaje son:
 
 ## Hilo argumental
 
-Las jerarquías de escala están presentes en todos los aspectos de nuestra realidad. Y quizás por eso, son difíciles de explicar de una manera sistemática. El hilo argumental de esta sesión es un primer intento por parte del profesor de explicar algo que lleva rumiando muchos años. Sirva esto como disculpa adelantada por los errores cometidos...
-
-
+Las jerarquías de escala están presentes en todos los aspectos de nuestra realidad. Y quizás por eso, son difíciles de explicar de una manera sistemática. 
 
 En la explicación se tratan de reproducir las distintas escalas espaciales que constituyen la realidad. En cada uno de esos "niveles de escala" (en adelante se usará el término escala para referirnos a "nivel de escala") describiremos dos realidades diferentes:
 
@@ -55,11 +53,11 @@ El siguiente nivel de escala tiene mucha importancia en el ámbito de la goberna
 
 El último nivel de escala que describiremos es el global. En el ámbito de la naturaleza, la escala global está caracterizada por el concepto de Gaia. Esta idea recoge la capacidad que tiene la biosfera de mantener unas condiciones abióticas adecuadas para su propia subsistencia. En cuanto a la gobernanza, disponemos de una serie de instituciones globales que se encargan de aspectos concretos de la gestión de ecosistemas. Las Naciones Unidas, por ejemplo, se encargan de proponer tratados que permitan la conservación de distintos tipos de ecositemas. 
 
-Esta jerarquización de escalas que hemos descrito es interesante porque nos ayuda a entender un poco mejor cómo funciona el mundo natural y las sociedades humanas. Además, es útil porque muchos de los impactos de las actividades humanas o de los problemas de conservación de la naturaleza que observamos pueden interpretarse como disfunciones en esta jerarquía de escalas ([Lingbor, R. et al. 2017](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1741)). En este sentido Newig y Moss ([Newig J. and Moss T. 2017](https://www.tandfonline.com/doi/full/10.1080/1523908X.2017.1390926)) proponen distintos "modos de fallo" de las jerarquías de escala:
+Esta jerarquización de escalas que hemos descrito es útil porque nos ayuda a entender un poco mejor cómo funciona el mundo natural y las sociedades humanas. Además, es útil porque muchos de los impactos de las actividades humanas o de los problemas de conservación de la naturaleza que observamos pueden interpretarse como disfunciones en esta jerarquía de escalas ([Lingbor, R. et al. 2017](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1741)). En este sentido Newig y Moss ([Newig J. and Moss T. 2017](https://www.tandfonline.com/doi/full/10.1080/1523908X.2017.1390926)) proponen distintos "modos de fallo" de las jerarquías de escala:
 
 + *Recursos gestionados a escalas inadecuadas*. Este problema surge cuando una institución que por su escala de actuación debería de hacer ciertas cosas en el territorio no lo hace por no disponer de recursos económicos. La escasez de capacidad económica de los municipios es un buen ejemplo de esto en nuestro país.
 + *Identificación errónea de la escala óptica de intervención*. Hay muchas situaciones en las que las acciones de manejo de ecosistemas tienen un impacto limitado porque no ocupan suficiente superficie o tienen efectos negativos porque cubren demasiada. En algunos casos se ha comprobado que, por ejemplo, para lograr una mejora en la función de polinización de un ecosistema, es necesario repoblar con especies vegetales un área determinada. 
-+ *Discrepancias de objetivos o criterios entre escalas*. Este problema de escala es también muy común. Se refiere a situaciones en las que instituciones que operan a distintas escalas tienen criterios u objetivos diferentes. Por ejemplo, un estado puede considerar que es prioritario conservar una especie, mientras que una comunidad autónoma de dicho estado puede pensar que eso no es importante. 
++ *Discrepancias de objetivos o criterios entre escalas*. Este problema de escala es también muy común. Se refiere a situaciones en las que instituciones que operan a distintas escalas tienen criterios u objetivos diferentes. Por ejemplo, un Estado puede considerar que es prioritario conservar una especie, mientras que una comunidad autónoma de dicho Estado puede pensar que eso no es importante. 
 + *Cambio en la escala de gestión*. Los procesos de transferencia de competencias entre instituciones pueden provocar problemas de gestión de ecosistemas. El proceso de transferencia suele llevar varios años durante los cuales los ecosistemas caen en una especie de "tierra de nadie". Algo así ocurrió en España hace unas décadas cuando las comunidades autónomas fueron asumiendo las competencias en materia de gestión ambiental.
 + *Problemas de escalado (hacia arriba y hacia abajo)*. Este tipo de problemas se deben a que los procesos de integración entre escalas no funcionan bien en el ámbito de la gobernanza. La información y los recursos debe de fluir entre escalas desde lo local hasta lo global. Pero eso no ocurre siempre de manera fluída. Las instituciones que funcionan a escala regional o global deben de ser capaces de integrar la información y las experiencias que vienen desde lo local. Esto implica un proceso de generalización que no siempre resulta fácil.
 
@@ -71,7 +69,11 @@ La siguiente presentación muestra de manera gráfica el hilo argumental anterio
 
 <iframe src="https://prezi.com/p/embed/fHhoxbEgVQ9siHbEFA2e/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="515" width="560"></iframe>
 
-Además, se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2023_2024/presentacion/escalas_gobernanza.exe) para Windows y [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2023_2024/presentacion/escalas_gobernanza.zip) para Mac. 
+Además, se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024_2025/presentacion/escalas_gobernanza.exe) para Windows, [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024_2025/presentacion/escalas_gobernanza.zip) para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024_2025/presentacion/escalas_gobernanza_lowres.pdf) en pdf.
+
+
+
+
 
 
 ****
