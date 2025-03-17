@@ -6,6 +6,8 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Una sesión de 1.5 horas.
 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/2024_2025/imagenes/portada.png)
+
 
 
 ## Objetivos del acto docente
