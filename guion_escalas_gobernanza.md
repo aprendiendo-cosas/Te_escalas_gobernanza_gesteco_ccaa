@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Una sesión de 1.5 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/2024_2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/2024-2025/imagenes/portada.png)
 
 
 
@@ -44,15 +44,9 @@ Después, traemos a clase a Elinor Ostrom, que ganó un premio Nóbel de econom�
 
 En la siguiente imagen se resume lo visto sobre la tragedia de los comunes y los trabajos de Ostrom. 
 
+![comunes](https://raw.githubusercontent.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/2024-2025/imagenes/comunes.png)
 
-
-
-
-
-
-
-
-En la explicación se tratan de reproducir las distintas escalas espaciales que constituyen la realidad. En cada uno de esos "niveles de escala" (en adelante se usará el término escala para referirnos a "nivel de escala") describiremos dos realidades diferentes:
+Una vez entendida la tragedia de los comunes, tratamos de reproducir las distintas escalas espaciales que constituyen la realidad. En cada uno de esos "niveles de escala" (en adelante se usará el término escala para referirnos a "nivel de escala") describiremos dos realidades diferentes:
 
 1. Elementos estructurales y funcionales de la componente "natural" de la realidad. Es decir, lo que en la asignatura de ecología llamamos "ecosistemas". 
 2. Elementos estructurales y funcionales de lo que llamaremos "instrumentos de gobernanza". Nos referimos aquí a las distintas herramientas o instituciones que nos permiten gestionar o manejar los distintos niveles de escala. 
@@ -91,7 +85,7 @@ La siguiente presentación muestra de manera gráfica el hilo argumental anterio
 
 <iframe src="https://prezi.com/p/embed/fHhoxbEgVQ9siHbEFA2e/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="515" width="560"></iframe>
 
-Además, se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024_2025/presentacion/escalas_gobernanza.exe) para Windows, [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024_2025/presentacion/escalas_gobernanza.zip) para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024_2025/presentacion/escalas_gobernanza_lowres.pdf) en pdf.
+Además, se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024-2025/presentacion/escalas_gobernanza.exe) para Windows, [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024-2025/presentacion/escalas_gobernanza.zip) para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_escalas_gobernanza_gesteco_ccaa/raw/2024-2025/presentacion/escalas_gobernanza_lowres.pdf) en pdf.
 
 
 
