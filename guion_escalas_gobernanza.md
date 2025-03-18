@@ -18,6 +18,8 @@ La incorporación de este acto docente durante el presente curso al contenido de
 
 >Cómo relacionar la gestión a distintas escalas. Desde lo local hasta lo global.
 
+Además, en el curso 2024-2025 se pone de manifiesto que los estudiantes no conocen la denominada "tragedia de los comunes". Como esta teoría está relacionada con la gobernanza y sus escalas, se incorpora información sobre la misma a este guión.
+
 Este acto docente trata de responder a esta necesidad.
 
 Así pues, los objetivos de aprendizaje son:
@@ -25,12 +27,30 @@ Así pues, los objetivos de aprendizaje son:
 + Identificar la jerarquía de escala como un proceso o mencanismo inherente a los sistemas complejos adaptativos.
 + Recordar las jerarquías de escala existentes en la componente "natural" de los socioecositemas. Esto fue lo que estudiamos en la asignatura de ecología.
 + Establecer un paralelismo (aún sutil) entre las jerarquías de escala del mundo "natural" y los instrumentos que hemos construído los humanos para gestionar la realidad (es decir, los mecanismos de gobernanza).
-
-
++ Comprender la importancia de la variable "distancia entre los que toman decisiones y los que reciben las consecuencias de las mismas" en el ámbito de la gestión de ecosistemas.
++ Entender la tragedia de los comunes y las enmiendas que hizo Elinor Ostrom a dicha teoría. 
 
 ## Hilo argumental
 
 Las jerarquías de escala están presentes en todos los aspectos de nuestra realidad. Y quizás por eso, son difíciles de explicar de una manera sistemática. 
+
+Empezamos la explicación con este vídeo que muestra la teoría denominada "tragedia de los comunes"
+
+
+
+<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/nicholas_amendolare_what_is_the_tragedy_of_the_commons" width="1024px" height="576px" title="What is the tragedy of the commons?" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
+
+Después, traemos a clase a Elinor Ostrom, que ganó un premio Nóbel de economía por cuestionar la teoría anterior. Esta investigadora demostró que las agrupaciones de humanos son capaces de gestionar de manera sostenible los recursos siempre que se den una serie de condiciones. [Aquí](https://www.rozsavage.com/elinor-ostrom-and-avoiding-the-tragedy-of-the-commons/) puedes ver con más detalle cuáles son estas condiciones. Además, [este](https://www.youtube.com/watch?v=Qr5Q3VvpI7w) vídeo muestra una breve entrevista a Ostrom. 
+
+En la siguiente imagen se resume lo visto sobre la tragedia de los comunes y los trabajos de Ostrom. 
+
+
+
+
+
+
+
+
 
 En la explicación se tratan de reproducir las distintas escalas espaciales que constituyen la realidad. En cada uno de esos "niveles de escala" (en adelante se usará el término escala para referirnos a "nivel de escala") describiremos dos realidades diferentes:
 
